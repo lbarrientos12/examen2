@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+header{
+	background-color: #212121;
+}
+footer{
+	background-color: #000;
+	color: #acbad4;
+	padding: 30px 0;
+	text-align: center;
+	font-size: 13px;
+}
+
+.header {
+    font-size: 70px;
+    font-weight: 800;
+    color: #fff;
+    position: absolute;
+    top: 25px;
+    left: 60px;
+}
+
+.sub-header {
+    font-size: 35px;
+    font-style: italic;
+    font-weight: 400;
+    color: #fff;
+    position: absolute;
+    top: 112px;
+    left: 60px;
+}
+
+.slide-1{
+	padding: 150px 0;
+	background-image: url(../img/slide-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.slide-2{
+	padding: 150px 0;
+	background-image: url(../img/slide-2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.slide-3{
+	padding: 150px 0;
+	background-image: url(../img/slide-3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.titulo{
+	color: #fff;
+	font-weight: 600;
+	font-size: 30px;
+	text-align: center;
+	margin: 20px 0;
+}
+
+.content{
+    color: #fff;
+    font-size: 11px;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+#intro{
+	padding: 30px 0;
+	background-color: #000;
+
+}
+
+.contenedor-info{
+	text-align: center;
+	padding: 30px 0;
+}
+
+.btn-intro{
+	background-color: transparent;
+	padding: 10px 30px;
+	font-weight: 400;
+	font-size: 13px;
+	color: #fff;
+	border: solid 1px #fff;
+}
+
+.btn-intro:hover{
+	background-color: #ddd;
+	color: #000;
+}
+
+#gallery{
+	padding: 30px 0;
+	background-color: #000;	
+}
+
+.gallery-img{
+	margin: 0;
+	padding: 0;
+}
+
+.content-gallery{
+    color: #fff;
+    font-size: 11px;
+    text-align: center;
+    width: 45%;
+    margin: auto;
+}
+
+#gang{
+	padding: 30px 0;
+	background-color: #000;		
+}
+.gang-members{
+	padding: 40px 0;
+    width: 80%;
+}
+.gang-profile{
+	text-align: center;
+	padding: 20px 0px;
+}
+
+.profile-titulo{
+	font-size: 30px;
+	font-weight: 400;
+	text-align: center;
+	margin: 10px 0;
+	color: #fff;
+}
+
+.subtext{
+	font-size: 12px;
+	text-align: center;
+	margin: 10px 0;
+	color: #fff;
+}
+
+.profile-info{
+	color: #fff;
+	text-align: center;
+	font-size: 10px;
+}
+
+.redes{
+	max-width: 140px;
+	padding: 10px 0;
+}
+
+.redes-btn{
+	padding: 0;
+	margin: 0;
+}
+.red-a{
+	color: #ff5300;
+	padding: 10px;
+	border: solid 1px #ff5300;
+	background-color: #000;
+}
+.red-a:hover{
+	color: #fff;
+	border: solid 1px #ff5300;
+	background-color: #ff5300;
+}
